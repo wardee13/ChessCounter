@@ -1,0 +1,24 @@
+oldschevturn5.pgn
+Total games: 3116
+White wins: 1003 (32%)
+Black wins: 866 (28%)
+Draws: 1247 (40%)
+
+oldschevturn6.pgn
+Total games: 3297
+White wins: 1192 (36%)
+Black wins: 809 (25%)
+Draws: 1296 (39%)
+
+schevold22ply.pgn
+Total games: 1
+White wins: 0 (0%)
+Black wins: 1 (100%)
+Draws: 0 (0%)
+
+twicschevturn5.pgn
+Total games: 1676
+White wins: 614 (37%)
+Black wins: 591 (35%)
+Draws: 471 (28%)
+
